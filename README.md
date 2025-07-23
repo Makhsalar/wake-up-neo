@@ -2,7 +2,7 @@
 
 A responsive digital clock featuring a "Wake up, Neo..." message and a dynamic, falling green code background inspired by The Matrix.
 
-### [Live Demo Link](https://github.com/Makhsalar/wake-up-neo)
+### [Live Demo Link][(https://github.com/Makhsalar/wake-up-neo)](https://makhsalar.github.io/wake-up-neo/)
 
 
 ![Matrix Clock Screenshot](https://github.com/Makhsalar/wake-up-neo/blob/main/matrix.png)
@@ -26,7 +26,7 @@ A responsive digital clock featuring a "Wake up, Neo..." message and a dynamic, 
 ---
 ## How To Use
 
-Simply open the [Live Demo Link](https://github.com/Makhsalar/wake-up-neo) to view the project.
+Simply open the [Live Demo Link](https://github.com/Makhsalar/wake-up-neo/blob/main/matrix.png) to view the project.
 
 To run this project locally:
 1.  Clone the repository:
