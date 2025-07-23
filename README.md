@@ -4,10 +4,8 @@ A responsive digital clock featuring a "Wake up, Neo..." message and a dynamic, 
 
 ### [Live Demo Link](https://github.com/Makhsalar/wake-up-neo)
 
-*(Replace the link above with your actual GitHub Pages URL)*
 
 ![Matrix Clock Screenshot](https://github.com/Makhsalar/wake-up-neo/blob/main/matrix.png)
-*(To add your own screenshot: take a picture of your project, upload it to your repository, and replace the link above with the link to your image.)*
 
 ---
 ## Features
