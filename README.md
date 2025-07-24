@@ -30,7 +30,7 @@ Simply open the [Live Demo Link](https://makhsalar.github.io/wake-up-neo/) to vi
 To run this project locally:
 1.  Clone the repository:
     ```sh
-    git clone [https://github.com/Makhsalar/wake-up-neo.git](https://github.com/Makhsalar/wake-up-neo.git)
+    git clone https://github.com/Makhsalar/wake-up-neo.git
     ```
 2.  Navigate to the project directory:
     ```sh
